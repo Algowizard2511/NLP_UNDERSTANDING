@@ -1,9 +1,9 @@
-Preprocessing overview in NLP <br>
-1.remove html_tags
-2.lowercasing
-3.removing punctuation
-4.spelling correction 
-5.emojis removal and demojize
-6.stop words removal
-7.chatwords conversion
+<h1> Preprocessing overview in NLP <br>
+1.remove html_tags <br>
+2.lowercasing <br>
+3.removing punctuation <br>
+4.spelling correction <br>
+5.emojis removal and demojize <br>
+6.stop words removal <br>
+7.chatwords conversion <br>
 8.Tokenize
